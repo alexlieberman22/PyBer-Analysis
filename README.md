@@ -2,21 +2,25 @@
 
 ## Overview
 
+The purpose of this project was to summarize and graph how ride share data differs by city type and how those differences can be used by managers at PyBer to better business practices.
+
 
 ## Results
 Each chart/ data type analyzed showed that Urban, Suburban and Rural communities are all constantly different from each other. 
 
 Total rides where much higher in Urban areas then suburban which itself was much higher than rural:
 
-![](https://github.com/alexlieberman22/PyBer_Analysis/blob/main/Resources/Fig6.PNG)
+![](https://github.com/alexlieberman22/PyBer_Analysis/blob/main/Analysis/Fig6.png)
+
 
 The same can be said for number of drivers:
 
-![](https://github.com/alexlieberman22/PyBer_Analysis/blob/main/Resources/Fig7.PNG)
+![](https://github.com/alexlieberman22/PyBer_Analysis/blob/main/Analysis/Fig7.png)
+
 
 Total fares per mouth were followed a similar tend with Urban having the highest followed by Suburban and then Rural. It didn’t seem to matter the time of year; each city type was distinctly higher or lower than the other year-round. 
 
-![](https://github.com/alexlieberman22/PyBer_Analysis/blob/main/Resources/PyBer_fare_summary.PNG)
+![](https://github.com/alexlieberman22/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png)
 
 
 ## Summary
